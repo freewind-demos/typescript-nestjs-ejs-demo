@@ -1,7 +1,7 @@
-Typescript NestJS Demo
+Typescript NestJS Ejs Demo
 ======================
 
-Say hello
+要安装`esm`，配置文件，以及 `@Render('index')`
 
 ```
 npm i
